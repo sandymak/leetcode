@@ -1,5 +1,9 @@
 /*
-Problem was found on leetcode.com
+Source: https://leetcode.com/problems/palindrome-number/description/
+Author: Sandy Mak
+Date: March 13, 2018
+
+PROMPT:
 Determine whether an integer is a palindrome. Do this without extra space.
 */
 
